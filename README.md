@@ -13,6 +13,8 @@ Avatar :
 
 <img src="image/man.png" width="100">
 
+___
+
 >[Github Saya Disini!](https://github.com/indraadi01)
 >
 >[LinkedIn Saya Disini!](https://www.linkedin.com/in/mindraadikusuma/)
